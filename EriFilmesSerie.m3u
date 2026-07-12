@@ -3,6 +3,17 @@
 #EXTINF: -1, tvg-logo = "https://i.ibb.co/yFc8Ht02/12-anos-de-escr-1.jpg" group-title = "DRAMA,AVENTURA", 12 Anos De Escravidão (2014)
 https://www.googleapis.com/drive/v3/files/15rD6ujz0hAKmUrudFdgI8GrSJk5_LdKx?alt=media&key=AIzaSyBoE1j8aC5mQI6HvuwW32hI7ZGnJ7JoiTU
 
+#EXTINF:-1 tvg-id="1" tvg-name="10.000 A.C. " tvg-logo="https://cinemacomrapadura.com.br/imagens/2014/07/20140728-10000-a-c.jpg" group-title="DRAMA,AVENTURA",SISU. 
+#EXTGRP:AVENTURA
+#EXTVLCOPT:network-caching=1000
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTART:Francis Ford Coppola
+#EXTGENRE:Açao | Aventura
+#EXTRATING:9.2
+#EXTDESC:Uma tribo de na alteia foram sequestrado.
+https://www.googleapis.com/drive/v3/files/1P2sZNnZuN4_k0jshKwowVlI_YTtk9gFI?alt=media&key=AIzaSyBoE1j8aC5mQI6HvuwW32hI7ZGnJ7JoiTU
+
 #EXTINF: -1, tvg-logo = "https://www.image2url.com/r2/default/images/1779501002996-5711c5be-b302-4f7e-a942-47d6ef458ef7.png" group-title = "DRAMA,AVENTURA", Cruzada (2005)
 https://www.googleapis.com/drive/v3/files/1OPHGmFi27cb6rn0lYm91aqsMs3TyF8oA?alt=media&key=AIzaSyBoE1j8aC5mQI6HvuwW32hI7ZGnJ7JoiTU
 
