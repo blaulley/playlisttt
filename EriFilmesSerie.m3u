@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF: -1, tvg-logo = "https://i.ibb.co/yFc8Ht02/12-anos-de-escr-1.jpg" group-title = "DRAMA,AVENTURA", 12 Anos De Escravidão (2014)
+#EXTINF:-1, tvg-logo = "https://i.ibb.co/yFc8Ht02/12-anos-de-escr-1.jpg" group-title = "DRAMA,AVENTURA", 12 Anos De Escravidão (2014)
 https://www.googleapis.com/drive/v3/files/15rD6ujz0hAKmUrudFdgI8GrSJk5_LdKx?alt=media&key=AIzaSyBoE1j8aC5mQI6HvuwW32hI7ZGnJ7JoiTU
 
 #EXTINF:-1 tvg-id="1" tvg-name="SISU: Estrada da Vingança " tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/z8LpUN4UOsYcUSLw1STPZsQ5w8B.jpg" group-title = " Guerra",SISU: Estrada da Vingança. 
@@ -22,9 +22,7 @@ https://www.googleapis.com/drive/v3/files/1P2sZNnZuN4_k0jshKwowVlI_YTtk9gFI?alt=
 #EXTBANNER:https://media.themoviedb.org/t/p/w780/c6H7Z4u73ir3cIoCteuhJh7UCAR.jpg
 #EXTTRAILER:https://www.youtube.com/watch?v=PJza3ZaFeAU
 #EXTYEAR:2021
-#EXTDURATION:109
-#EXTLANG:Português
-#EXTCAST:Direto  Screenplay
+
 https://www.googleapis.com/drive/v3/files/1cREZt1AaXjJulhJBQ8kxpWYL3O7XsHJR?alt=media&key=AIzaSyBoE1j8aC5mQI6HvuwW32hI7ZGnJ7JoiTU
 
 #EXTINF: -1, tvg-logo = "https://www.image2url.com/r2/default/images/1779501002996-5711c5be-b302-4f7e-a942-47d6ef458ef7.png" group-title = "DRAMA,AVENTURA", Cruzada (2005)
@@ -69,22 +67,22 @@ https://lh3.googleusercontent.com/ZinS8eRhAh261uZoSH6kS_iHe9LoE5q7CDpNzhHUMHayVF
 #EXTINF: -1, tvg-logo = grupo "https://www.filmesonline-x.com/wp-content/uploads/2019/07/o-poderoso-chef%C3%A3o-capa-1.jpg" -title = "ACAO,AVENTURA", poderoso chefao
 https://lh3.googleusercontent.com/33BmF2vEiCNSl8R6hVNRas1OKI1409GziTBb45bdGRR4yHFHuJXNOkGiQofpMsSZa7c9gdatFnMq1PFaGL3d2EviT-AKQvmGR-tmmJOvM51S5noi6XenlxhhULQ6QDDczXEaIVr7NA=m22
  
-#EXTINF: -1 tvg-logo = "https://www.themoviedb.org/t/p/w600_and_h900_face/oxZX9s92Xr5f7mnFCGyEsB5mCOb.jpg" group-title = "TERROR", Resident.Evil.1 O.Hospede.Maldito.2002
+#EXTINF: -1, tvg-logo = "https://www.themoviedb.org/t/p/w600_and_h900_face/oxZX9s92Xr5f7mnFCGyEsB5mCOb.jpg" group-title = "TERROR", Resident.Evil.1 O.Hospede.Maldito.2002
 https://lh3.googleusercontent.com/vzDCqm2Km0BiDT21YrskR7PiaL5YVxdw-CGd9M1J371Y09nYS7iNGzIhwiHkHdDfGKHpQmae6q4DHTJlEUBPcor5EXRL--RW2qFcdskb9_t2Q9e2iYRKQXEVJfHlMQEJ2Ux4oYNT2w=m22
  
-#EXTINF: -1 tvg-logo = "https://hele235.com/wp-content/uploads/2018/01/Resident_Evil_2_-_Apocalipse.jpg" group-title = "TERROR", Resident.Evil.2.Apocalipse. 2004
+#EXTINF: -1, tvg-logo = "https://hele235.com/wp-content/uploads/2018/01/Resident_Evil_2_-_Apocalipse.jpg" group-title = "TERROR", Resident.Evil.2.Apocalipse. 2004
 https://lh3.googleusercontent.com/Zz-RcjkvYx1ihnqyH1Zp9axM8vD2Mv-ZlzD1RQwEfewlO-nY7ckvlLGqHfucCKDX4yMcLbMlCY6wsQ_7hErRWhu0VjlYK6ymG6kxZ5pjX3jjBMThj3keMV4j2hgG9Tf_M9DgfNq64A=m22
  
-#EXTINF: -1 tvg-logo = "https://bit.ly/2P4wbkO" group-title = "TERROR", Resident.Evil.3.A.Extincao.2007.
+#EXTINF: -1, tvg-logo = "https://bit.ly/2P4wbkO" group-title = "TERROR", Resident.Evil.3.A.Extincao.2007.
 https://lh3.googleusercontent.com/21l5gHzKWFDpTF1lJG_lV5fnQMzmbtQmLCm5bEC1PAmh4QKbtu5D53-2tkBKqWTANR6DAFgOMSE4J_wSuuFo0QSDMP_zqEQ4e0DKKnpo6Wqt1sPfTKfqxzBV1IslAexFqa3jTBmCUw=m22
  
-#EXTINF: -1 tvg-logo = "https://bit.ly/33GwSnw" group-title = "TERROR", Resident.Evil 4 Recomeзo (2010)
+#EXTINF: -1, tvg-logo = "https://bit.ly/33GwSnw" group-title = "TERROR", Resident.Evil 4 Recomeзo (2010)
 https://lh3.googleusercontent.com/mvCWMD23zM0PLdfAqYwJFBMnhpa5sId55zLjM4KR8t2OVLzjCmYXJFDkUFv-eWuV-t07bsKXPfAlpK9P27uMj6P8b9yCF3ary2Vqej2sdE0jxR5FSqJy8RwfgBfYIbi6oUff1RJCdQ=m22
  
-#EXTINF: -1 tvg-logo = "https://megafilmeshdflix.com/wp-content/uploads/2016/12/Resident-Evil-5-Retribui%C3%A7%C3%A3o-1.jpg" group- title = "TERROR", Resident.Evil 5 Retribuiзгo (2012)
+#EXTINF: -1, tvg-logo = "https://megafilmeshdflix.com/wp-content/uploads/2016/12/Resident-Evil-5-Retribui%C3%A7%C3%A3o-1.jpg" group- title = "TERROR", Resident.Evil 5 Retribuiзгo (2012)
 https://lh3.googleusercontent.com/_UAra5sV6tVkCETKrU1HR_OI3nwvy_9T7uWHz5WvstrEDUCAC5b5ZzSQ0WvsXQ_0-_94G6slHDJy1KGU8vJQkyWL8zBMaQxvHcUpgA_3mEtkqgjpgEw2nmYqgR4XTJ8y7gJ3RxqrSA=m37
  
-#EXTINF: -1 tvg-logo = "https://bit.ly/2KGCsyS" group-title = "TERROR", Resident.Evil.6.O.Capнtulo.Final.2017
+#EXTINF: -1, tvg-logo = "https://bit.ly/2KGCsyS" group-title = "TERROR", Resident.Evil.6.O.Capнtulo.Final.2017
 https://lh3.googleusercontent.com/GfQ1s3he2nWq-JEuyFGclImKTwzcQxRxi2OpAzc2rjcIYmVrYrwUL2YcVrkNBblKptQ7yn21khWNt_gHhQPQAcoGTgGVvBnWDr4ze8wbJUfagiwCopKiiACfZAE3GVQLSXcp8ImYzg=m22
  
 #EXTINF: -1 tvg-logo = "https://3.bp.blogspot.com/-u6KOuFSY_ik/UNtcbH21CmI/AAAAAAAAAOM/ic6HBZK1Exw/s1600/Riddick-2013-Movie-French-Poster-600x800.jpg" grupo tнtulo = "ACAO,AVENTURA", Riddick.2013
